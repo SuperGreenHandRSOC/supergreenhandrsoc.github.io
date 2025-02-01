@@ -6,17 +6,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+# Zhuge Jinjing's cv
 ## Education
 **Huazhong University of Science and Technology (HUST)**
+
 Wuhan, Hubei, R.P.China
+
 2022 – Present
+
 undergraduate in Artificial Intelligence, expected Jun. 2026
 GPA 4.27/5 (88.1/100)
 ## Experience
 **HUSTNLP Lab**. Huazhong University of Science and Technology
-Aug. 2023 – Present
+
+`Aug. 2023 – Present`
+
 Internship
+
 Gaining hands-on experience in natural language processing (NLP).
 - Familiarized with core NLP concepts and algorithms.
 - Explored Large Language Model construction and optimization, prompt engineering techniques.
@@ -24,7 +30,9 @@ Gaining hands-on experience in natural language processing (NLP).
 
 
 **Naferius: Intelligent Assistant and Chatbot**
-November 2024 – Present
+
+`November 2024 – Present`
+
 Personal Python Project
 - Deployed a Tencent QQ robot based on the Nonebot and Napcat frameworks.
 - Invoked the Zhipu API, making full use of LLMs for memory management and information response.
@@ -33,13 +41,17 @@ Personal Python Project
 
 
 **Information assistant system**
-Feb. 2023 – Apr. 2023
+
+`Feb. 2023 – Apr. 2023`
+
 C, C++, DOS C programming Course Design, collaborated with Hengyu Liu
+
 An informative system providing structured guidance on university applications.
 - Employed efficient low-code techniques using Borland C++ on DOS.
 - Developed a comprehensive feature set, including mock preference filling, personalized recommendations,
 ranking mechanisms and so on.
 - Created an elegant UI/UX to enhance user experience and facilitate ease of use.
+
 ## Skills & Coursework
 - **Natural Language Process Specialization**, Coursera Deeplearning.AI
 - **Machine Learning**, Cambridge Intensive Program
