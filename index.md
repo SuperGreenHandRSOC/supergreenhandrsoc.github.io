@@ -9,7 +9,7 @@ When not immersed in research, she might be designing software tools to make eve
 
 She plans to share thoughts, projects, and musings on her [personal blog](https://sharks-pears-blog.vercel.app/)—currently under construction, but coming soon!
 
-- 📧 u202214950@hust.edu.cn OR supergreenhandRSOC@gmail.com
+- 📧 [u202214950@hust.edu.cn](mailto:u202214950@hust.edu.cn) OR [supergreenhandRSOC@gmail.com](mailto:supergreenhandrsoc@gmail.com)
 - 📞 (+86) 187-587-78190
 
 ## 🎓 Education
