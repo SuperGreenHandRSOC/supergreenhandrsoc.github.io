@@ -1,11 +1,11 @@
 ---
-title: Welcome to my blog
+title: I'm heading into the thick of it.
 date: 2024-11-02
 ---
-## Hi,
-there! This is the first time to use github page and the first time really try to deploy a website on the Internet. This is what I am going to do!
+## Jinjing Zhuge / Antares
 
-- [ ] build a small application with 'database'
-- [ ] put my cv here
+👩‍💻**Jinjing Zhuge** is an undergraduate student majored in Artificial Interlligence at Huazhong University of Science and Technology (HUST).Her research interests include **LLM Agents**, **AI safety**, and the fascinating intersection between **AI and cognitive science**.
 
-I'm not for personal blogs cause I am going to let `Vercel` do the work. I am a newvie but I pretty appreciate `NextJs` things anyway. :>
+When not immersed in research, she might be designing software tools to make everyday lift a bit smarter, pondering minds and models, or creating ACG-style digital art. Feel free to say hi—especially if you're also trying to teach machines to think twice.
+
+She plans to share thoughts, projects, and musings on her [personal blog](https://sharks-pears-blog.vercel.app/)—currently under construction, but coming soon!
