@@ -1,5 +1,5 @@
 ---
-title:  
+title: Welcome to my homepage!  
 date: 2025-6-16
 ---
 ## 🦉Jinjing Zhuge / Antares
@@ -23,7 +23,7 @@ She plans to share thoughts, projects, and musings on her [personal blog](https:
 
 ### **HUSTNLP Lab**, Huazhong University of Science and Technology
 
-*Internship &#124 Aug. 2023 – Feb. 2025*
+*Internship, Aug. 2023 – Feb. 2025*
 
 - Gained hands-on experience in natural language processing (NLP).
 - Familiarized with core NLP concepts and algorithms.
@@ -33,7 +33,7 @@ She plans to share thoughts, projects, and musings on her [personal blog](https:
 
 ### **NISL Lab**, Tsinghua University
 
-*Remote Internship &#124 Mar. 2025 – Present*
+*Remote Internship, Mar. 2025 – Present*
 
 - Preparing a manuscript for submission to *Applied Sciences* (target: Jun. 2025).
 - Developing an automated multi-agent system for Capture the Flag (CTF) challenges (crypto, misc).
@@ -42,7 +42,7 @@ She plans to share thoughts, projects, and musings on her [personal blog](https:
 
 ### **Naberius: Intelligent Assistant and Chatbot**
 
-*Personal Python Project &#124 Nov. 2024 – Jan. 2025*
+*Personal Python Project, Nov. 2024 – Jan. 2025*
 
 - Built a QQ chatbot using Nonebot and Napcat frameworks.
 - Integrated Zhipu API for memory and response generation.
@@ -52,7 +52,7 @@ She plans to share thoughts, projects, and musings on her [personal blog](https:
 
 ### **Information Assistant System**
 
-*C, C++ Project &#124 Feb. 2023 – Apr. 2023*
+*C, C++ Project, Feb. 2023 – Apr. 2023*
 
 *C Programming Course Design, collaborated with Hengyu Liu*
 
