@@ -66,7 +66,7 @@ She plans to share thoughts, projects, and musings on her [personal blog](https:
   [Verify Certificate](https://coursera.org/verify/specialization/D648233UN335)
 - **Machine Learning**, Cambridge Intensive Program
 - **Major Courses:** Machine Learning, Pattern Recognition, Vision Cognitive Engineering, Digital Image Processing, Human Brain & Mind
-- **Programming Languages:** Python > C/C++ > JavaScript = SQL > MATLAB
+- **Programming Languages:** Python, C/C++, TypeScript, SQL, MATLAB, NextJs, ReAct
 - **Platforms:** Windows > Linux
 
 
