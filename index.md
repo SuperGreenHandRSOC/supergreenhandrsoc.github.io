@@ -30,9 +30,7 @@ She plans to share thoughts, projects, and musings on her [personal blog](https:
 
 ### **HUSTNLP Lab**, Huazhong University of Science and Technology
 
-*Internship, Aug. 2023 – Feb. 2025*
-
-Advisor: **Prof. Ng See Kiong**
+*Internship, Aug. 2023 – Feb. 2025*, Advisor: **Prof. Ng See Kiong**
 
 - Gained hands-on experience in natural language processing (NLP).
 - Familiarized with core NLP concepts and algorithms.
