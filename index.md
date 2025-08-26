@@ -22,7 +22,7 @@ She plans to share thoughts, projects, and musings on her [personal blog](https:
 
 ### **Institute of Data Science**, National University of Singapore
 
-*research attachment, Jul. 2025 - Mar. 2026*
+*research attachment, Jul. 2025 - Mar. 2026*, Advisor: **Prof. Ng See Kiong**
 
 - Contributed to extending features of a Jailbreak method **Geneshift** (manuscript in preparation).
 - Investigated attacks and defenses in Large Language Models (LLMs).
@@ -30,7 +30,7 @@ She plans to share thoughts, projects, and musings on her [personal blog](https:
 
 ### **HUSTNLP Lab**, Huazhong University of Science and Technology
 
-*Internship, Aug. 2023 – Feb. 2025*, Advisor: **Prof. Ng See Kiong**
+*Internship, Aug. 2023 – Feb. 2025*
 
 - Gained hands-on experience in natural language processing (NLP).
 - Familiarized with core NLP concepts and algorithms.
