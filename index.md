@@ -3,11 +3,11 @@ title: Welcome to my homepage!
 date: 2025-6-16
 ---
 ## 🦉Jinjing Zhuge / Antares
-‍**Jinjing Zhuge** is an undergraduate student majored in Artificial Interlligence at Huazhong University of Science and Technology (HUST).Her research interests include **LLM Agents**, **AI safety**, and the fascinating intersection between **AI and cognitive science**.
+‍**Jinjing Zhuge** is an undergraduate student majored in Artificial Interlligence at Huazhong University of Science and Technology (HUST). Her research interests center on **AI safety**, and she is also eager to explore the fascinating intersections between **AI & cognitive science**.
 
-When not immersed in research, she might be designing software tools to make everyday lift a bit smarter, pondering minds and models, or creating ACG-style digital art. Feel free to say hi—especially if you're also trying to teach machines to think twice.
+Outside of research, she enjoys designing software tools that make everyday life a little smarter, reflecting on the intriguing parallels between neural networks and the human mind, and creating ACG fanart. Feel free to say hi—especially if you’re also working on teaching machines to think twice.
 
-She plans to share thoughts, projects, and musings on her [personal blog](https://sharks-pears-blog.vercel.app/)—currently under construction, but coming soon!
+She plans to share thoughts, projects, and musings on her [personal blog](https://sharks-pears-blog.vercel.app/)—currently under construction, but coming soon! (she admits her frontend skills could use some polishing)
 
 - 📧 [u202214950@hust.edu.cn](mailto:u202214950@hust.edu.cn) OR [supergreenhandRSOC@gmail.com](mailto:supergreenhandrsoc@gmail.com)
 - 📞 (+86) 187-587-78190
@@ -20,13 +20,23 @@ She plans to share thoughts, projects, and musings on her [personal blog](https:
 
 ## 🧪 Experience
 
+### *Institude of Data Science**, National University of Singapore
+
+*research attachment, Jul. 2025 - Mar. 2026*
+
+- Contributed to extending features of a Jailbreak method **Geneshift** (manuscript in preparation).
+- Investigated attacks and defenses in Large Language Models (LLMs).
+- Exploring internal representations of LLMs to enhance safety.
+
 ### **HUSTNLP Lab**, Huazhong University of Science and Technology
 
 *Internship, Aug. 2023 – Feb. 2025*
 
+Advisor: **Prof. Ng See Kiong**
+
 - Gained hands-on experience in natural language processing (NLP).
 - Familiarized with core NLP concepts and algorithms.
-- Explored Large Language Model (LLM) construction, optimization, and prompt engineering.
+- Explored LLM construction, optimization, and prompt engineering.
 - Participated actively in research discussions and meetings.
 
 
