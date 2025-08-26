@@ -18,6 +18,14 @@ She plans to share thoughts, projects, and musings on her [personal blog](https:
   - 2022 – Present (Expected Jun. 2026)
   - GPA: 4.24/5 (87.8/100)
 
+## 📃 Publications
+
+- Zewen Huang, **Jinjing Zhuge**, Jianwei Zhuge.  
+  *Multi-Agent Framework Utilizing Large Language Models for Solving Capture-the-Flag Challenges in Cybersecurity Competitions.*  
+  **Applied Sciences**, vol. 15, no. 13, 7159, 2025.  
+  [https://doi.org/10.3390/app15137159](https://doi.org/10.3390/app15137159)
+
+
 ## 🧪 Experience
 
 ### **Institute of Data Science**, National University of Singapore
