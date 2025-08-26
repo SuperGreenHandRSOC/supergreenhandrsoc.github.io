@@ -20,7 +20,7 @@ She plans to share thoughts, projects, and musings on her [personal blog](https:
 
 ## 🧪 Experience
 
-### **Institude of Data Science**, National University of Singapore
+### **Institute of Data Science**, National University of Singapore
 
 *research attachment, Jul. 2025 - Mar. 2026*
 
