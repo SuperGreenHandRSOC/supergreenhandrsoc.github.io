@@ -30,7 +30,7 @@ She plans to share thoughts, projects, and musings on her [personal blog](https:
 
 ### **Institute of Data Science**, National University of Singapore
 
-*research attachment, Jul. 2025 - Mar. 2026*, Advisor: **Prof. Ng See Kiong**
+*research attachment, Jul. 2025 - Mar. 2026*, Advisor: **Prof. Jiaheng Zhang**
 
 - Contributed to extending features of a Jailbreak method **Geneshift** (manuscript in preparation).
 - Investigated attacks and defenses in Large Language Models (LLMs).
